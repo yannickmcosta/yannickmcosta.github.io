@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/yannickmcosta
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://yannickmcosta.github.io
+  * I am yannickmcosta (https://keybase.io/yannickmcosta) on keybase.
+  * I have a public key with fingerprint 1178 5FD2 F1DC 8777 4A0A  6B08 D727 1CAB FCDC 7E19
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01013ebc97abc3d512e425933c5a3e516b910835c4f8276d370c17475c79635533c10a",
+            "fingerprint": "11785fd2f1dc87774a0a6b08d7271cabfcdc7e19",
+            "host": "keybase.io",
+            "key_id": "d7271cabfcdc7e19",
+            "kid": "01013ebc97abc3d512e425933c5a3e516b910835c4f8276d370c17475c79635533c10a",
+            "uid": "d2cd3aaf3850d48c3e05de538498e619",
+            "username": "yannickmcosta"
+        },
+        "service": {
+            "hostname": "yannickmcosta.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1478275626,
+    "expire_in": 157680000,
+    "prev": "dc625e3604689df07423168c349ff5eb529fc92459e33315fc52a54d12df0fb7",
+    "seqno": 24,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMNCAnicrVJ7TFV1HL88L0ISNJsXhIBTUyCk8/qdx6WGEy0FihwTEJDbefwOnLgv
+7z28Qiw2YfRwaEVdmUESisFkXGA9uGKpkEsXGUKFVwk2NxmBLnNhItI5WP/5Z79/
+fvv9fp/nd7+h1X66YJ9fNkR13b+6L8Ln4pkTZbq8qN7EaoS3iVWIsRophSsbNIvQ
+qZhKZRExIiiGYgTkBZbmeIEQAYZDEgcsQQiAIyDAKJ7FUIYAAikxOE2JBI0KGE3S
+QKBZigBABWIohyQhkmwthg67Q7YqqiyG0QyQRFzCRIGhaZrkUI7iUUakcRoTOF4S
+RIGGGKsSS2xOjaGG4zknTJZt6p16MK3EewT+f85d9tAHF0SC4ySCAahIMgIBUSBC
+QDAky0BqxbfMCR1WzgJVdBVntcpCqUVQo3NITRKiPpXLAtSmq9V5FCy5WFZKyviH
+/ewOm2ITbGYVVKIodqdRE1Gq7BqrAvKmf/VMvGwV1bmqjHLocMo2K2LEVKSgyJoB
+RtJqN0DhVBICK+2yA5pkDQFoikHVpfnAcq2dQOEAEhRKUgwrSihN4gRGqS1JVpIA
+5AHOSgKLk4CFBEFgQBIAzgFSxHAVLPE0ojXcY7UhRpxUc3LFqqZTLrZySpkDIjVn
+zxT663yCdYEBvtqH0wWvCvvvGwauC9N1b+ts3zja05m3aenT/Fb/7UP5R+tP365c
+SMgMBwZvaJr+muvgX86PMnbkNps7ZvWLOU9azaGwLiN1ObE25v6uuI7D0R3u8LRX
+6kLW1ITsPthV8V3OJ0fe3iDbl3Ov+ducbwxemR8Nm3/Q/5JffOBbvl96+j0NjSmf
+Seu/mfa7aAkaqKzcXz+3GFN0OmLKtfmJy22pz/x8odF9PFJ3sykyKd5w6bnLmb3D
+hTG97oCs8o3eop2TI1tje7i5uvGW9oXzM9PHEcu+0P0O25FjKS131v4RY5j+YrTg
+qcw0urmt3XKPqp+Hk4tRDzK2OOP802/NGOwXOuX58d3yjxNVSrb+p3N8Td8Lg8Ca
+sCtk4EDfiRup2W2GqZeb9N0Tb+59mvth3tXv7Ta0nst055wqD05qWPY8i7i+buxv
+aHwnO6Hvg6PuxE36852P5R7KzRuZNM8sX42oyKne9mLKVEFW4U2v0E98HBB36mRY
++tlV4Z60917PQ00p3usjkUGPbw+qZS1bM5g9O4zst3f4696h2uZpl7K5+sDvrDk1
+/8OmLWu77g4eHpu4m5U89vlc1uqMJdd6YW4htfXK33++n95XNDuceIM9BGP1936V
+9dHRYW2v0oW/TTVLPh7Ha+PxRvfJddG3j7l1S3tzDL3KQEskWvDVCDX2/Zpbw3xP
+zbs766JiHfr0530vDc0G/wPiFsCA
+=vzjy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yannickmcosta
+
+==================================================================
